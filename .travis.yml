@@ -12,4 +12,4 @@ after_success:
     - git config --global user.email "68621828@qq.com"
     - git add -A
     - git commit -m 'deploy'
-    - git push --quiet --force "https://github.com/coolpail" master:gh-pages
+    - git push --quiet --force "https://d5bb52c9b8cce10430b6c76059c710e6ef244965@github.com/coolpail" master:gh-pages
